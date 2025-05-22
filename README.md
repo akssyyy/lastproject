@@ -14,7 +14,7 @@ This project is a simple Spring Boot MVC application created for the Java Labs c
    ```
 2. Open in IntelliJ as a Maven project.
 3. Run `DemoApplication.java`.
-4. Visit: `http://localhost:8080/greeting?name=HnZLOeqp
+4. Visit: `http://localhost:8080/greeting?name=akssyyy
 
 ## 📸 Screenshots
 ### home OPRATION
